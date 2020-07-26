@@ -95,7 +95,7 @@
 	Press 2. To use JFileChooser to read data from an input file
 	Enter (1 or 2)
 	1
-	Enter the file name with extension : resourse/read.txt
+	Enter the file name with extension : resource/read.txt
 
 	-------------------------------------------------------
 	1: The array in table format
