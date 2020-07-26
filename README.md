@@ -277,10 +277,11 @@
 	Enter (1 or 2)
 	2
 
-	![](https://github.com/nancycg/2DArrayFun/blob/master/resource/JFileChooserDialogBox.png)
+![](https://github.com/nancycg/2DArrayFun/blob/master/resource/JFileChooserDialogBox.png)
 
-	Data inside file is as follows...
-	![](https://github.com/nancycg/2DArrayFun/blob/master/resource/TestArray.png)
+Data inside file is as follows...
+
+![](https://github.com/nancycg/2DArrayFun/blob/master/resource/TestArray.png)
 
 	The file you chose was: /Users/nancy/code/GIT/2DArrayAndFun/resourse/TestArrayInput.txt
 
